@@ -36,4 +36,10 @@
 ## 📫 Contact Me  
 - Portfolio: [yourwebsite.com](你的個人網站)  
 - LinkedIn: [linkedin.com/in/yourprofile](你的 LinkedIn)  
-- Twitter: [@yourhandle](你的 Twitter)  
+- Twitter: [@yourhandle](你的 Twitter)
+
+<h3>GitHub Stats</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenhuei&show_icons=true&locale=en&layout=compact" alt="chenhuei" />
+</p>
