@@ -49,9 +49,7 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)  
 
 ## 📫 Contact Me  
-- Portfolio: [yourwebsite.com](你的個人網站)  
-- LinkedIn: [linkedin.com/in/yourprofile](你的 LinkedIn)  
-- Twitter: [@yourhandle](你的 Twitter)
+- LinkedIn: [www.linkedin.com/in/柏恩-孫-9287b816b](LinkedIn)  
 
 <h3>GitHub Stats</h3>
 
