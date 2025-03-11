@@ -49,10 +49,5 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)  
 
 ## 📫 Contact Me  
-- LinkedIn: [www.linkedin.com/in/柏恩-孫-9287b816b](LinkedIn)  
-
-<h3>GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smallga&show_icons=true&locale=en&layout=compact" alt="chenhuei" />
-</p>
+- 🔗 [LinkefIn](www.linkedin.com/in/柏恩-孫-9287b816b)
+- 📮<a href="mailto:example@example.com?subject=Feedback&body=Hello%20there!">Email</a> 
