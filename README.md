@@ -49,5 +49,5 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)  
 
 ## 📫 Contact Me  
-- 🔗 [LinkefIn](www.linkedin.com/in/柏恩-孫-9287b816b)
-- 📮 <a href="mailto:example@example.com?subject=Feedback&body=Hello%20there!">Email</a> 
+- 🔗 [LinkefIn](https://www.linkedin.com/in/%E6%9F%8F%E6%81%A9-%E5%AD%AB-9287b816b/)
+- 📮 <a href="mailto:example@smallgag.gmail.com?subject=Hello&body=Hello%20Brian:">Email</a> 
